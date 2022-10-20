@@ -1,4 +1,4 @@
-package gcukakao.jenkins.calculator;
+package keon.jenkins.person;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

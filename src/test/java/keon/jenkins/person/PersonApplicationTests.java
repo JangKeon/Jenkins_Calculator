@@ -1,4 +1,4 @@
-package gcukakao.jenkins.calculator;
+package keon.jenkins.person;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
