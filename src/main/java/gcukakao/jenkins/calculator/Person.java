@@ -1,8 +1,16 @@
 package gcukakao.jenkins.calculator; 
 import org.springframework.stereotype.Service; 
+
  
 @Service 
-public class Calculator { 
+public class Person { 
+
+
+     public String register(String name){
+          return "User Registered : " + name;
+     }
+
+
      public int sum(int a, int b) { 
           return a + b; 
      } 
